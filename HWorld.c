@@ -22,6 +22,7 @@ return 0;
 float x1=(-b+sqrtf(dis))/(2*a);
 float x2=(-b-sqrtf(dis))/(2*a);
 printf("x1=%f x2=%f",x1,x2);
+printf("lab2 commit")
 return 0;
 
 
